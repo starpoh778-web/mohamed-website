@@ -254,3 +254,12 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+.profile-image {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid #8b7cff;
+    margin-bottom: 25px;
+    box-shadow: 0 0 25px rgba(139, 124, 255, 0.4);
+}
